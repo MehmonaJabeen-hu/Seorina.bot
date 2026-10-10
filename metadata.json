@@ -1,0 +1,8 @@
+{
+  "name": "Remix Seol-In-ah Messenger",
+  "description": "An authentic, lifelike companion messenger featuring Seol-In-ah with natural messaging, voice notes, and heartfelt conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
